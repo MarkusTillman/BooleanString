@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\tille\documents\visual studio 2017\projects\booleanstring\booleanstring\main.cpp(27): warning C4100: 'argv': unreferenced formal parameter
+c:\users\tille\documents\visual studio 2017\projects\booleanstring\booleanstring\main.cpp(27): warning C4100: 'argc': unreferenced formal parameter
+  BooleanCharacter.cpp
+c:\users\tille\documents\visual studio 2017\projects\booleanstring\booleanstring\booleancharacter.cpp(16): warning C4805: '|=': unsafe mix of type 'unsigned char' and type 'const bool' in operation
+c:\users\tille\documents\visual studio 2017\projects\booleanstring\booleanstring\booleancharacter.cpp(19): warning C4805: '|=': unsafe mix of type 'unsigned char' and type 'const bool' in operation
+  Generating Code...
+  BooleanString.vcxproj -> C:\Users\Tille\Documents\Visual Studio 2017\Projects\BooleanString\Debug\BooleanString.exe
+  BooleanString.vcxproj -> C:\Users\Tille\Documents\Visual Studio 2017\Projects\BooleanString\Debug\BooleanString.pdb (Partial PDB)
